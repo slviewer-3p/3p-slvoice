@@ -3,6 +3,8 @@
 <map>
     <key>package_description</key>
     <map>
+      <key>canonical_repo</key>
+      <string>https://github.com/slviewer-3p/3p-slvoice</string>
       <key>copyright</key>
       <string>2010 Vivox, including audio coding using Polycom¨ Siren14TM (ITU-T Rec. G.722.1 Annex C)</string>
       <key>description</key>
